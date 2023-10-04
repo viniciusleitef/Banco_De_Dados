@@ -1,0 +1,25 @@
+-----Client report-----
+Atualmente existem 6 clientes cadastrados no sistema
+
+-----Employee report-----
+Atualmente existem 5 funcionarios cadastrados
+
+-----Product report-----
+- Existem 5 produtos cadastrados no sistema
+- O custo total do estoque foi de: R$161950.0
+- O faturamento total esperado(venda de todos os produtos) eh de: R$261600.0
+- O lucro total esperado(venda de todos os produtos) eh de: R$99650.0
+- O faturamento atual eh de: R$23366.0
+- Ainda nao otivemos lucro, estamos do prejuizo de: -R$138584.0
+
+O produto 'Maleta de Poker 1.000 fichas 11,5gms Black Diamond Case Acrílico' possui 45 unidades em estoque
+O produto 'Baralho Copag 139' possui 196 unidades em estoque
+O produto 'Mesa de Poker Oval 2,50 x 1,10 Verde com Porta Copos' possui 27 unidades em estoque
+O produto 'Baralho Bicycle Standard' possui 193 unidades em estoque
+O produto 'Maleta com 500 fichas personalizadas ceramica 39mm 10grs' possui 46 unidades em estoque
+
+-----Sale report-----
+Foram realizadas 10 vendas no total
+O custo dos produtos vendidos foi de: R$14696.0
+O faturamento total da loja foi de: R$23366.0
+O lucro baseado nas vendas ja feitas eh de: R$8670.0
